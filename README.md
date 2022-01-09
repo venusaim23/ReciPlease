@@ -6,11 +6,11 @@ The hub to connect with other bright culinary thinkers and develop your taste fo
 -Basic knowledge in Javascript and Figma
 
 ### Tools and Technologies Used:
--Javascript
-
--Alan-ai
-
--Figma
+- Java
+- Android Studio
+- Javascript
+- Alan-ai
+- Figma
 
 ---
 ### Features:
