@@ -1,4 +1,4 @@
-package com.mlh.reciplease;
+package com.mlh.reciplease.UI.Fragments;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;

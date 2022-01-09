@@ -1,10 +1,16 @@
 <resources>
     <string name="app_name">ReciPlease</string>
     <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
     <string name="recipes">Recipes</string>
     <string name="favourites">Favourites</string>
     <string name="my_recipes">My Recipes</string>
 
     <string name="add_recipe">Add recipe</string>
     <string name="home">Home</string>
+    <string name="no_internet">No Internet</string>
+    <string name="recipe_thumbnail">Recipe thumbnail</string>
+    <string name="likes">Likes</string>
+    <string name="time_taken">Time taken</string>
+    <string name="food_type">Food type</string>
 </resources>

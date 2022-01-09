@@ -1,4 +1,4 @@
-package com.mlh.reciplease;
+package com.mlh.reciplease.UI.Fragments;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -25,6 +25,9 @@ public class HomeFragment extends Fragment {
 
     public void onViewCreated(@NonNull View view, Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
+
+        binding.recyclerViewHome.showShimmer();
+
 
 //        binding.buttonFirst.setOnClickListener(new View.OnClickListener() {
 //            @Override
